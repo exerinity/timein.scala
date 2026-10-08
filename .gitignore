@@ -1,0 +1,5 @@
+.scala-build/
+.bsp/
+timein.jar
+timein
+dist/
