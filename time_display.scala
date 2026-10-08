@@ -1,4 +1,4 @@
-package timein
+package com.exerinity.timein
 
 import java.time.Instant
 import java.time.ZoneId

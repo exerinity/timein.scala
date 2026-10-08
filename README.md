@@ -21,7 +21,7 @@ If `timein` is not found after installation, add `~/.local/bin` to your PATH. To
 From this directory, with Scala CLI installed:
 
 ```bash
-scala run . --server=false --scala 3.8.4 --main-class timein.Main -- melbourne
+scala run . --server=false --scala 3.8.4 --main-class com.exerinity.timein.Main -- melbourne
 ```
 
 ## Usage
