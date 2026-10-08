@@ -3,6 +3,8 @@ Scala remake of [timein](https://github.com/exerinity/timein), a small C program
 
 The C version is dead-simple and assumes you know exactly what you want. The Scala version is a bit more lenient and tolerates more ambiguity in commands
 
+After I started to learn Scala in April, this is my first standalone Scala project.
+
 ## Prerequisites
 - To run a built package: Java 17 or newer
 - To build from source: a Java 17+ JDK and Scala CLI. Build commands use Scala 3.8.4 and may download it on the first build
